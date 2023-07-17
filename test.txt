@@ -1,2 +1,2 @@
 test
-feature
+<p>master 2</p>
